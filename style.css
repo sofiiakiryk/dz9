@@ -1,0 +1,29 @@
+.card { width: 350px;
+height: 550px;
+background-color: aliceblue;
+border: 10px;
+border-color: black;
+text-align: center;
+
+
+}
+.logo { 
+height: 200px;
+border-radius: 200px;
+margin-top: -75px;}
+.top {height: 175px;
+width: 350px;
+background-color:#7800FF ;}
+.car { color: #7800FF;}
+.buy {  background-color:#7800FF ;
+    display: block;
+    color: rgb(255, 241, 241);
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    
+    text-decoration: none;
+    line-height: 50px;}
+.buy:hover {background-color:#a5b8d7 ;
+    color:#4786f6 ;} 
